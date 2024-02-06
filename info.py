@@ -83,6 +83,6 @@ DOWNLOAD_TEXT_URL = "https://t.me/c/1863569504/16"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://t.me/sunriseseditsoffical6"
+CAPTION_BUTTON_URL = "https://t.me/movieplaza77"
 
    # Auto Delete For Bot Sending Files #
